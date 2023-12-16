@@ -1935,53 +1935,13 @@
     }
   ],
   "users": [
-    {
-      "email": "shubham@example.com",
-      "password": "$2a$10$K9aEH3/VDb2QU/EsjrHGJO7X5JxCcg0bMAnBtyT3kBW9FL7FnnygO",
-      "name": "Shubham Sarda",
-      "id": 1
-    },
+    
     {
       "email": "sampadrb@gmail.com",
       "password": "$2a$10$Ed4G0pLW2VUOZYNvvO9kc.cdF7Kmx0U1Qwfxtk3DZ8S8GtwNLgQu6",
       "name": "sampad",
       "id": 2
-    },
-    {
-      "email": "jitesh@fgh.com",
-      "password": "$2a$10$rUoH7hWKvBJtuVKVzt/cV.FuBCXHZ8obVW5R5dYdD10fWx/CClNqW",
-      "name": "jitresh",
-      "id": 3
-    },
-    {
-      "email": "sampadrb@gm.com",
-      "password": "$2a$10$ftI..yx3i9OPcBz4Zc8w3ulAcXaEFh8ncWB2u5Ozx/crrnEbb4T3S",
-      "name": "samrat",
-      "id": 4
-    },
-    {
-      "email": "stt@gmail.com",
-      "password": "$2a$10$RV63m/jbe3.j0Pfhc0Y89OJdiXkYrxUYapOYXLV9XJ65ZojS1LC2y",
-      "name": "sarad",
-      "id": 5
-    },
-    {
-      "email": "skt@gmail.com",
-      "password": "$2a$10$AX862385xQQCG3m1Xr0LiOOoiTk37kVhDSOONYeuunIy0q7aQAn3.",
-      "name": "saket",
-      "id": 6
-    },
-    {
-      "email": "sdf@gmail.com",
-      "password": "$2a$10$0yOugRscEpyf5J2g20jGDezJEmU1k7aU769Gun6ePGWdvQTBw6LNq",
-      "name": "sadf",
-      "id": 7
-    },
-    {
-      "email": "alext@gmail.com",
-      "password": "$2a$10$O5k3Fox93iNW3sL0rPdKPeqHppU9CDhuiCgCN04DbdwZTBUtye7Qq",
-      "name": "alex",
-      "id": 8
     }
+    
   ]
 }
