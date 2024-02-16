@@ -14,7 +14,6 @@ export async function login(authDetail) {
   }
 
   const data = await response.json();
-  //data.accessToken ? navigate("/products"):toast.error(data)
 
   if (data.accessToken) {
     sessionStorage.setItem("token", JSON.stringify(data.accessToken));
